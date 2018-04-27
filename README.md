@@ -1,21 +1,18 @@
 # KASSIE GALITSKY
-5712 Brockton Dr. Apt. D, Indianapolis, IN 46220 | 317.691.2877 | galitskyk@gmail.com | linkedin.com/in/kassie-galitsky
+5712 Brockton Dr. Apt. D, Indianapolis, IN 46220 | 317.691.2877 | galitskyk@gmail.com | [linkedin.com/in/kassie-galitsky](https://www.linkedin.com/in/kassie-galitsky/)
 
-### Education
+### Education & Certificates
 
-**INDIANA UNIVERSITY PURDUE UNIVERSITY INDIANAPOLIS | 2018 - 2019**
+**PURDUE SCHOOL OF ENGINEERING AND TECHNOLOGY, IUPUI | 2018 - 2019**
 
-Purdue School of Engineering Technology
--   *Certificate*: Technical Communications
--   Completing certificate to enhance skills and build portfolio to pursue career as a technical writer
+-   Technical Communication Certificate 
+-   to enhance skills and build portfolio to pursue career as a technical writer
 
 **BALL STATE UNIVERSITY | 2010 - 2014**
 
-Department of Geography
-
--   *Bachelor of Science*: Meteorology and Climatology
--   *Minor*: Emergency Management and Homeland Security
--   *Relevant coursework*: Media Audio and Video | Media Analysis and Criticism | Script and Copy Writing | Digital Photography | Intro to Computer Science and Security | Advanced GIS Analysis | GIS System Design | Applied Research Methods
+-   Bachelor of Science: Meteorology and Climatology
+-   Minor: Emergency Management and Homeland Security
+-   *Relevant coursework*: Media Audio and Video | Media Analysis and Criticism | Script and Copy Writing | Digital Photography
 
 ### Professional Experience
 
@@ -50,3 +47,4 @@ Department of Geography
 -   Exceptional interpersonal skills with ability to build strong business relationships with an energetic and positive attitude
 -   Ability to learn and adapt quickly to advance the goals of the organization
 -   Strong organizational, time management and critical thinking skills to resolve challenges efficiently
+
