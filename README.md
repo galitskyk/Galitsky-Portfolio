@@ -2,19 +2,32 @@
 5712 Brockton Dr. Apt. D, Indianapolis, IN 46220 | 317.691.2877 | galitskyk@gmail.com | [linkedin.com/in/kassie-galitsky](https://www.linkedin.com/in/kassie-galitsky/)
 
 ### Education & Certificates
+---
 
-**PURDUE SCHOOL OF ENGINEERING AND TECHNOLOGY, IUPUI | 2018 - 2019**
+**PURDUE SCHOOL OF ENGINEERING AND TECHNOLOGY, IUPUI | JAN 2018 - MAY 2019**
 
 -   Technical Communication Certificate 
--   to enhance skills and build portfolio to pursue career as a technical writer
 
-**BALL STATE UNIVERSITY | 2010 - 2014**
+**BALL STATE UNIVERSITY | SEP 2010 - MAY 2014**
 
 -   Bachelor of Science: Meteorology and Climatology
 -   Minor: Emergency Management and Homeland Security
 -   *Relevant coursework*: Media Audio and Video | Media Analysis and Criticism | Script and Copy Writing | Digital Photography
 
+### Skills & Abilities
+---
+
+**TECHNICAL**
+-   Proficient with Microsoft Office, Visual Studios, Adobe CS, Adobe Captivate, WordPress, MailChip 
+-   Working knowledge of Markdown, HTML and CSS 
+
+**COMMUNICATION & TEAMWORK**
+-   Exceptional interpersonal skills with ability to build strong business relationships with an energetic and positive attitude
+-   Ability to learn and adapt quickly to advance the goals of the organization
+-   Strong organizational, time management and critical thinking skills to resolve challenges efficiently
+
 ### Professional Experience
+---
 
 **LEASING & MARKETING MANAGER | ASSET CAMPUS HOUSING | MAR 2017 – AUG 2017**
 
@@ -37,14 +50,5 @@
 -   Completed daily follow-ups and weekly reports on office traffic and activity 
 -   Managed community social media outlets and marketing revenues
 
-### Skills & Abilities
 
-**TECHNICAL**
--   Proficient with Microsoft Office, Adobe CS, WordPress, MailChip 
--   Working knowledge of HTML and CSS 
-
-**COMMUNICATION & TEAMWORK**
--   Exceptional interpersonal skills with ability to build strong business relationships with an energetic and positive attitude
--   Ability to learn and adapt quickly to advance the goals of the organization
--   Strong organizational, time management and critical thinking skills to resolve challenges efficiently
 
