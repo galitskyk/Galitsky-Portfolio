@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# KASSIE GALITSKY
+5712 Brockton Dr. Apt. D, Indianapolis, IN 46220 | 317.691.2877 | galitskyk@gmail.com | [linkedin.com/in/kassie-galitsky](https://www.linkedin.com/in/kassie-galitsky/)
 
-You can use the [editor on GitHub](https://github.com/galitskyk/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Education & Certificates
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**PURDUE SCHOOL OF ENGINEERING AND TECHNOLOGY, IUPUI | JAN 2018 - MAY 2019**
 
-### Markdown
+-   Technical Communication Certificate 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**BALL STATE UNIVERSITY | SEP 2010 - MAY 2014**
 
-```markdown
-Syntax highlighted code block
+-   Bachelor of Science: Meteorology and Climatology
+-   Minor: Emergency Management and Homeland Security
+-   *Relevant coursework*: Media Audio and Video | Media Analysis and Criticism | Script and Copy Writing | Digital Photography
 
-# Header 1
-## Header 2
-### Header 3
+### Skills & Abilities
+---
 
-- Bulleted
-- List
+**TECHNICAL**
+-   Proficient with Microsoft Office, Visual Studios, Adobe CS, Adobe Captivate, WordPress, MailChip 
+-   Working knowledge of Markdown, HTML and CSS 
 
-1. Numbered
-2. List
+**COMMUNICATION & TEAMWORK**
+-   Exceptional interpersonal skills with ability to build strong business relationships with an energetic and positive attitude
+-   Ability to learn and adapt quickly to advance the goals of the organization
+-   Strong organizational, time management and critical thinking skills to resolve challenges efficiently
 
-**Bold** and _Italic_ and `Code` text
+### Professional Experience
+---
 
-[Link](url) and ![Image](src)
-```
+**LEASING & MARKETING MANAGER | ASSET CAMPUS HOUSING | MAR 2017 – AUG 2017**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-   Supervised and trained team of three leasing agents to sell apartments for maximum occupancy
+-   Coordinated community outreach to develop relationships with local businesses and managed property marketing and advertising avenues to increase traffic to the community
+-   Conducted market surveys to develop effective specials and marketing efforts
+-   Coordinated events for resident retention and property promotion
+-   Completed daily, weekly and monthly reports for corporate progress review
 
-### Jekyll Themes
+**ASSISTANT COMMUNITY MANAGER | BARRETT & STOKELY | SEP 2016 – MAR 2017**
+-   Collected, processed and monitored rent and miscellaneous income to ensure minimum delinquency 
+-   Completed community outreach to develop relationships with local businesses and managed property marketing and advertising avenues to increase traffic to the community
+-   Sent out monthly surveys and letters and planned events to ensure high renewal rate
+-   Assisted in the apartment make-ready process, leased apartments to future residents and managed the sales process from start to finish
+-   Completed daily, weekly and monthly reports for corporate progress review
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/galitskyk/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**LEASING CONSULTANT | BARRETT & STOKELY | MAY 2015 – SEP 2016**
+-   Answered phones and responded to written inquiries to provide information about the community
+-   Lead tours of apartment community, prepared lease documents and lead future residents through move in process
+-   Completed daily follow-ups and weekly reports on office traffic and activity 
+-   Managed community social media outlets and marketing revenues
