@@ -34,7 +34,7 @@ h5 {
 }
 
 .btn-info {
-	color: #fff;
+	color: #fff !important;
 	background-color: #01796F;
 }
 
