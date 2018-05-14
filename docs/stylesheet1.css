@@ -7,32 +7,10 @@ h1 {
 	font-weight: bold;
 }
 
-a:link {
+.btn-info {
 	background-color: #01796F;
-	color: white;
-	font-size: 20pt;
-	padding: 16px 27px;
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
 }
 
-a:visited {
-	background-color: #01796F;
-	color: white;
-	font-size: 20pt;
-	padding: 16px 27px;
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-}
-
-a:hover {
-	background-color: #01796F;
-	color: white;
-	font-size: 20pt;
-	padding: 16px 27px;
-	text-align: center;
-	text-decoration: underline;
-	display: inline-block;
+.btn-info:hover {
+	background-color: #0C968C;
 }

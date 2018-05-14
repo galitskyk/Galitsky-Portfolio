@@ -5,11 +5,9 @@
 h1 {
 	font-size: 26pt;
 	font-weight: bold;
-	width: 800px;
 }
 h2 {
 	font-weight: bold;
-	width: 800px;
 }
 
 a:link {
@@ -22,13 +20,9 @@ a:visited {
 	font-size: 12pt;
 }
 
-p {
-	width: 800px;
-}
-
 hr {
-	width: 900px;
 	height: 2px;
 	margin-left: 0px;
 	background-color: #01796F;
 	color: #01796F;
+}
