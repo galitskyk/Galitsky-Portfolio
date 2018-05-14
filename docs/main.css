@@ -1,0 +1,48 @@
+﻿body {
+	font-family: Arial;
+}
+
+hr {
+	height: 2px;
+	margin-left: 0px;
+	background-color: #01796F ;
+	color: #01796F;
+}
+
+a:link {
+	color: #01796F;
+	font-size: 12pt;
+}
+
+a:visited {
+	color: #01796F;
+	font-size: 12pt;
+}
+
+table {
+	margin-bottom: 1rem;
+}
+
+h1 {
+	font-size: 2.2rem;
+	font-weight: bold;
+}
+
+h5 {
+	font-size: 0.90rem;
+	margin-bottom: 1.1rem;
+}
+
+.btn-info {
+	color: #fff;
+	background-color: #01796F;
+}
+
+.btn-info:hover {
+	color: #fff;
+	background-color: #0C968C;
+}
+
+.btn-info:visited {
+	color: #fff;
+}
